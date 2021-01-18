@@ -1,5 +1,5 @@
 
-# Implementing a RNN from scratch with text synthesis.
+# Implementing a RNN from scratch with text synthesis
 
 
 # How to run the script
