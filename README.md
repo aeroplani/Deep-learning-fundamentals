@@ -1,8 +1,8 @@
-# Deep-learning-fundamentals
-Implementing DNNs from scratch
+
+# Implementing a RNN from scratch with text synthesis.
 
 
-How to run the script
+# How to run the script
 
 ```python
 python RNN_script.py sys.argv[1]
